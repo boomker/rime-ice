@@ -4,7 +4,7 @@
 #兼容词库，对于多字词汇两种读音的场景，手动维护到本表以及一些其他的杂项
 ---
 name: compatible
-version: "2025-05-02 19:13"
+version: "2025-05-06 01:08"
 sort: by_weight
 ...
 攒个	cuán gè	391
@@ -126,7 +126,7 @@ sort: by_weight
 便宜	biàn yí	201
 不长	bǔ cháng	570
 不为	bú wèi	609
-不为	bù wéi	600
+不为	bù wéi	623
 不长	bù zhǎng	329
 长的	cháng de	802
 长牙	cháng yá	84
