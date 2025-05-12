@@ -3,7 +3,7 @@
 #https://github.com/amzxyz/RIME-LMDG
 ---
 name: chars
-version: "2025-05-06 01:08"
+version: "2025-05-10 11:29"
 sort: by_weight
 ...
 啊	a	915
@@ -35875,9 +35875,8 @@ sort: by_weight
 𪒿	téng	1
 𪔶	tēng	1
 𪱪	téng	1
-朰	teul	1
+提	tí	854
 体	tǐ	845
-提	tí	834
 题	tí	830
 替	tì	677
 梯	tī	653
@@ -51005,6 +51004,7 @@ sort: by_weight
 𫝷	zuò	1
 呒	ḿ	1
 呣	ḿ	1
+朰	无	1
 乲	无	1
 叾	无	1
 唜	无	1
