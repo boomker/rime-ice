@@ -1565,8 +1565,7 @@ sort: by_weight
 民雄	mín xióng	446
 民乐	mín yuè	522
 明光	míng guāng	446
-名间	míng jiān	440
-名山	míng shān	558
+名间	míng jiān	340
 明山	míng shān	383
 明水	míng shuǐ	421
 明溪	míng xī	353
@@ -3815,6 +3814,7 @@ sort: by_weight
 大同市	dà tóng shì	450
 大同乡	dà tóng xiāng	387
 大洼区	dà wā qū	156
+大王镇	dà wáng zhèn	304
 大武口	dà wǔ kǒu	315
 大悟县	dà wù xiàn	226
 大武乡	dà wǔ xiāng	1
@@ -3845,7 +3845,6 @@ sort: by_weight
 大城镇	dài chéng zhèn	300
 大黄堡	dài huáng bǎo	175
 岱山县	dài shān xiàn	170
-大王镇	dài wáng zhèn	304
 岱岳区	dài yuè qū	174
 丹巴县	dān bā xiàn	188
 丹北镇	dān běi zhèn	100
@@ -9563,6 +9562,7 @@ sort: by_weight
 永寿县	yǒng shòu xiàn	154
 永顺县	yǒng shùn xiàn	194
 永泰县	yǒng tài xiàn	216
+永太镇	yǒng tài zhèn	74
 永新县	yǒng xīn xiàn	190
 永兴县	yǒng xīng xiàn	188
 永修县	yǒng xiū xiàn	206
@@ -14568,8 +14568,17 @@ sort: by_weight
 大湾沟村	dà wān gōu cūn	1
 大湾罗乡	dà wān luó xiāng	58
 大湾子村	dà wān zi cūn	57
+大王店镇	dà wáng diàn zhèn	225
+大王府村	dà wáng fǔ cūn	1
+大王古庄	dà wáng gǔ zhuāng	168
+大王集村	dà wáng jí cūn	1
+大王里村	dà wáng lǐ cūn	1
 大旺务村	dà wàng wù cūn	300
+大王寨乡	dà wáng zhài xiāng	1
+大王庄村	dà wáng zhuāng cūn	173
 大旺庄村	dà wàng zhuāng cūn	35
+大王庄乡	dà wáng zhuāng xiāng	116
+大王庄镇	dà wáng zhuāng zhèn	199
 大圩古镇	dà wéi gǔ zhèn	363
 大魏家村	dà wèi jiā cūn	1
 大围山镇	dà wéi shān zhèn	299
@@ -14819,15 +14828,6 @@ sort: by_weight
 埭头蔡村	dài tóu cài cūn	1
 代瓦尼乡	dài wǎ ní xiāng	1
 代王城镇	dài wáng chéng zhèn	142
-大王店镇	dài wáng diàn zhèn	225
-大王府村	dài wáng fǔ cūn	1
-大王古庄	dài wáng gǔ zhuāng	168
-大王集村	dài wáng jí cūn	1
-大王里村	dài wáng lǐ cūn	1
-大王寨乡	dài wáng zhài xiāng	1
-大王庄村	dài wáng zhuāng cūn	173
-大王庄乡	dài wáng zhuāng xiāng	116
-大王庄镇	dài wáng zhuāng zhèn	199
 岱武岔村	dài wǔ chà cūn	1
 岱峡河村	dài xiá hé cūn	1
 呆鹰岭镇	dāi yīng lǐng zhèn	156
@@ -44724,6 +44724,7 @@ sort: by_weight
 德宏傣族景颇族自治州	dé hóng dǎi zú jǐng pō zú zì zhì zhōu	357
 杜尔伯特蒙古族自治县	dù ěr bó tè měng gǔ zú zì zhì xiàn	294
 恩施土家族苗族自治州	ēn shī tǔ jiā zú miáo zú zì zhì zhōu	379
+甘肃省甘南藏族自治州	gān sù shěng gān nán zàng zú zì zhì zhōu	227
 贡山独龙族怒族自治县	gòng shān dú lóng zú nù zú zì zhì xiàn	287
 关岭布依族苗族自治县	guān lǐng bù yī zú miáo zú zì zhì xiàn	277
 海西蒙古族藏族自治州	hǎi xī měng gǔ zú zàng zú zì zhì zhōu	434
@@ -44734,6 +44735,7 @@ sort: by_weight
 宁洱哈尼族彝族自治县	níng ěr hā ní zú yí zú zì zhì xiàn	1
 彭水苗族土家族自治县	péng shuǐ miáo zú tǔ jiā zú zì zhì xiàn	298
 黔东南苗族侗族自治州	qián dōng nán miáo zú dòng zú zì zhì zhōu	469
+黔江土家族苗族自治县	qián jiāng tǔ jiā zú miáo zú zì zhì xiàn	10
 黔南布依族苗族自治州	qián nán bù yī zú miáo zú zì zhì zhōu	377
 围场满族蒙古族自治县	wéi chǎng mǎn zú měng gǔ zú zì zhì xiàn	330
 务川仡佬族苗族自治县	wù chuān gē lǎo zú miáo zú zì zhì xiàn	1
@@ -44742,6 +44744,7 @@ sort: by_weight
 伊犁伊犁哈萨克自治州	yī lí yī lí hā sà kè zì zhì zhōu	1
 印江土家族苗族自治县	yìn jiāng tǔ jiā zú miáo zú zì zhì xiàn	268
 酉阳土家族苗族自治县	yǒu yáng tǔ jiā zú miáo zú zì zhì xiàn	321
+云南省迪庆藏族自治州	yún nán shěng dí qìng zàng zú zì zhì zhōu	329
 镇宁布依族苗族自治县	zhèn níng bù yī zú miáo zú zì zhì xiàn	279
 紫云苗族布依族自治县	zǐ yún miáo zú bù yī zú zì zhì xiàn	261
 金平苗族瑶族傣族自治县	jīn píng miáo zú yáo zú dǎi zú zì zhì xiàn	264
