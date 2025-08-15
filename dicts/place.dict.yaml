@@ -3784,6 +3784,7 @@ sort: by_weight
 大湖乡	dà hú xiāng	1
 大湖镇	dà hú zhèn	178
 大皇堡	dà huáng bǎo	251
+大黄堡	dà huáng bǎo	175
 大甲区	dà jiǎ qū	1
 大甲镇	dà jiǎ zhèn	297
 大朗镇	dà lǎng zhèn	399
@@ -3843,7 +3844,6 @@ sort: by_weight
 大城县	dài chéng xiàn	174
 大城乡	dài chéng xiāng	1
 大城镇	dài chéng zhèn	300
-大黄堡	dài huáng bǎo	175
 岱山县	dài shān xiàn	170
 岱岳区	dài yuè qū	174
 丹巴县	dān bā xiàn	188
@@ -5946,6 +5946,7 @@ sort: by_weight
 雷甸镇	léi diān zhèn	196
 雷洞村	léi dòng cūn	112
 雷峰村	léi fēng cūn	82
+雷峰乡	léi fēng xiāng	215
 雷锋镇	léi fēng zhèn	255
 雷峰镇	léi fēng zhèn	145
 雷高镇	léi gāo zhèn	94
@@ -7166,6 +7167,7 @@ sort: by_weight
 暖暖区	nuǎn nuǎn qū	157
 瓯海区	ōu hǎi qū	210
 欧乐堡	ōu lè bǎo	332
+𠙶山镇	ǒu shān zhèn	94
 磐安县	pán ān xiàn	184
 潘集区	pān jí qū	149
 潘家堡	pān jiā bǎo	142
@@ -11400,7 +11402,7 @@ sort: by_weight
 报庄子村	bào zhuāng zǐ cūn	1
 豹子沟村	bào zi gōu cūn	1
 豹子坪村	bào zi píng cūn	1
-包子铺村	bāo zǐ pù cūn	1
+包子铺村	bāo zi pù cūn	1
 豹子山村	bào zi shān cūn	77
 报子营村	bào zǐ yíng cūn	1
 豹子峪村	bào zi yù cūn	1
@@ -12678,7 +12680,7 @@ sort: by_weight
 草甸水村	cǎo diān shuǐ cūn	1
 曹洞沟村	cáo dòng gōu cūn	1
 曹杜河村	cáo dù hé cūn	1
-草垛塄村	cǎo duǒ léng cūn	1
+草垛塄村	cǎo duò léng cūn	1
 草房梁村	cǎo fáng liáng cūn	1
 曹妃甸区	cáo fēi diān qū	351
 草佛寺村	cǎo fó sì cūn	1
@@ -14213,8 +14215,14 @@ sort: by_weight
 大槐树村	dà huái shù cūn	187
 大槐树镇	dà huái shù zhèn	225
 大唤起乡	dà huàn qǐ xiāng	35
+大黄堡乡	dà huáng bǎo xiāng	1
 大荒地村	dà huāng dì cūn	285
 大荒沟村	dà huāng gōu cūn	116
+大黄沟乡	dà huáng gōu xiāng	105
+大黄集镇	dà huáng jí zhèn	35
+大黄巍乡	dà huáng wēi xiāng	156
+大黄冶村	dà huáng yě cūn	1
+大黄庄镇	dà huáng zhuāng zhèn	35
 大灰厂村	dà huī chǎng cūn	105
 大汲店村	dà jí diàn cūn	207
 大箕铺镇	dà jī pù zhèn	282
@@ -14784,13 +14792,7 @@ sort: by_weight
 岱格庄村	dài gé zhuāng cūn	1
 代官屯村	dài guān tún cūn	77
 带湖山庄	dài hú shān zhuāng	1
-大黄堡乡	dài huáng bǎo xiāng	1
-大黄沟乡	dài huáng gōu xiāng	105
-大黄集镇	dài huáng jí zhèn	35
 代黄口村	dài huáng kǒu cūn	1
-大黄巍乡	dài huáng wēi xiāng	156
-大黄冶村	dài huáng yě cūn	1
-大黄庄镇	dài huáng zhuāng zhèn	35
 代家坝镇	dài jiā bà zhèn	187
 戴家场村	dài jiā chǎng cūn	1
 戴家场镇	dài jiā chǎng zhèn	162
@@ -24399,7 +24401,7 @@ sort: by_weight
 莲花洞村	lián huā dòng cūn	1
 莲花沟村	lián huā gōu cūn	1
 莲花口村	lián huā kǒu cūn	1
-莲花泡村	lián huā pào cūn	1
+莲花泡村	lián huā pāo cūn	1
 莲花盆村	lián huā pén cūn	1
 莲花寺村	lián huā sì cūn	58
 莲花寺镇	lián huā sì zhèn	105
@@ -32068,7 +32070,7 @@ sort: by_weight
 石堆山村	shí duī shān cūn	1
 石墩河乡	shí dūn hé xiāng	35
 石朵河村	shí duǒ hé cūn	1
-石垛坪村	shí duǒ píng cūn	1
+石垛坪村	shí duò píng cūn	1
 十二号村	shí èr hào cūn	34
 十二户村	shí èr hù cūn	1
 十二里庄	shí èr lǐ zhuāng	199
@@ -42385,7 +42387,7 @@ sort: by_weight
 月家庄村	yuè jiā zhuāng cūn	1
 岳家庄乡	yuè jiā zhuāng xiāng	77
 月亮沟村	yuè liàng gōu cūn	1
-月亮泡镇	yuè liàng pào zhèn	116
+月亮泡镇	yuè liàng pāo zhèn	116
 月亮坡村	yuè liàng pō cūn	125
 月亮湾村	yuè liàng wān cūn	116
 月亮峡村	yuè liàng xiá cūn	1
@@ -42964,7 +42966,7 @@ sort: by_weight
 张炉集镇	zhāng lú jí zhèn	178
 张路口村	zhāng lù kǒu cūn	35
 张陆湾村	zhāng lù wān cūn	1
-张罗沟村	zhāng luó gōu cūn	1
+张罗沟村	zhāng luo gōu cūn	1
 张马河村	zhāng mǎ hé cūn	1
 张马洪村	zhāng mǎ hóng cūn	1
 张码头村	zhāng mǎ tóu cūn	1
