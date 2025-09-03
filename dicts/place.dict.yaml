@@ -3766,6 +3766,7 @@ sort: by_weight
 达坂城	dá bǎn chéng	328
 大埔县	dà bù xiàn	205
 大埔乡	dà bù xiāng	1
+大城堡	dà chéng bǎo	183
 达川区	dá chuān qū	182
 大村乡	dà cūn xiāng	1
 大碉堡	dà diāo bǎo	151
@@ -3840,7 +3841,6 @@ sort: by_weight
 大竹县	dà zhú xiàn	244
 达孜区	dá zī qū	1
 大足区	dà zú qū	209
-大城堡	dài chéng bǎo	183
 大城县	dài chéng xiàn	174
 大城乡	dài chéng xiāng	1
 大城镇	dài chéng zhèn	300
@@ -4736,8 +4736,8 @@ sort: by_weight
 呼兰区	hū lán qū	198
 湖里区	hú lǐ qū	274
 虎林市	hǔ lín shì	145
-葫芦堡	hú lú bǎo	126
-葫芦岛	hú lú dǎo	236
+葫芦堡	hú lu bǎo	126
+葫芦岛	hú lu dǎo	236
 虎门镇	hǔ mén zhèn	416
 湖南省	hú nán shěng	337
 湖内区	hú nèi qū	1
@@ -20654,27 +20654,27 @@ sort: by_weight
 虎龙斗村	hǔ lóng dòu cūn	1
 护龙山庄	hù lóng shān zhuāng	183
 胡娄集村	hú lóu jí cūn	1
-葫芦庵村	hú lú ān cūn	1
-葫芦岔村	hú lú chà cūn	1
-葫芦旦村	hú lú dàn cūn	1
-葫芦岛市	hú lú dǎo shì	455
-葫芦垡村	hú lú fá cūn	1
-葫芦沟村	hú lú gōu cūn	1
-葫芦口村	hú lú kǒu cūn	1
-葫芦门村	hú lú mén cūn	1
-葫芦棚村	hú lú péng cūn	1
-葫芦寺村	hú lú sì cūn	1
-葫芦汤村	hú lú tāng cūn	35
-葫芦塘村	hú lú táng cūn	1
-葫芦套村	hú lú tào cūn	173
-葫芦套乡	hú lú tào xiāng	1
-葫芦头村	hú lú tóu cūn	1
-葫芦细村	hú lú xì cūn	1
+葫芦庵村	hú lu ān cūn	1
+葫芦岔村	hú lu chà cūn	1
+葫芦旦村	hú lu dàn cūn	1
+葫芦岛市	hú lu dǎo shì	455
+葫芦垡村	hú lu fá cūn	1
+葫芦沟村	hú lu gōu cūn	1
+葫芦口村	hú lu kǒu cūn	1
+葫芦门村	hú lu mén cūn	1
+葫芦棚村	hú lu péng cūn	1
+葫芦寺村	hú lu sì cūn	1
+葫芦汤村	hú lu tāng cūn	35
+葫芦塘村	hú lu táng cūn	1
+葫芦套村	hú lu tào cūn	173
+葫芦套乡	hú lu tào xiāng	1
+葫芦头村	hú lu tóu cūn	1
+葫芦细村	hú lu xì cūn	1
 虎路线村	hǔ lù xiàn cūn	1
 护路辛庄	hù lù xīn zhuāng	1
 胡鲁营村	hú lǔ yíng cūn	1
-葫芦峪村	hú lú yù cūn	168
-葫芦庄村	hú lú zhuāng cūn	1
+葫芦峪村	hú lu yù cūn	168
+葫芦庄村	hú lu zhuāng cūn	1
 呼伦贝尔	hū lún bèi ěr	580
 呼玛二村	hū mǎ èr cūn	35
 葫麻梁村	hú má liáng cūn	1
@@ -22965,7 +22965,7 @@ sort: by_weight
 九龙镇镇	jiǔ lóng zhèn zhèn	92
 久木野村	jiǔ mù yě cūn	125
 九女集镇	jiǔ nǚ jí zhèn	92
-九曲河村	jiǔ qǔ hé cūn	35
+九曲河村	jiǔ qū hé cūn	35
 旧泉坊村	jiù quán fāng cūn	1
 旧染井村	jiù rǎn jǐng cūn	1
 旧山吓村	jiù shān xià cūn	1
@@ -26172,7 +26172,7 @@ sort: by_weight
 麻河口镇	má hé kǒu zhèn	105
 马河滩村	mǎ hé tān cūn	1
 马横岭村	mǎ héng lǐng cūn	1
-马虎头村	mǎ hǔ tóu cūn	178
+马虎头村	mǎ hu tóu cūn	178
 马户屯村	mǎ hù tún cūn	1
 马呼沱村	mǎ hū tuó cūn	1
 马湖峪村	mǎ hú yù cūn	1
@@ -30940,7 +30940,7 @@ sort: by_weight
 三元朱村	sān yuán zhū cūn	216
 三张店乡	sān zhāng diàn xiāng	1
 三爪仑乡	sān zhǎo lún xiāng	149
-三只羊乡	sān zhǐ yáng xiāng	58
+三只羊乡	sān zhī yáng xiāng	58
 三洲山村	sān zhōu shān cūn	1
 三座庵村	sān zuò ān cūn	116
 三座店乡	sān zuò diàn xiāng	1
@@ -31453,7 +31453,7 @@ sort: by_weight
 上虹新村	shàng hóng xīn cūn	134
 上红兴村	shàng hóng xīng cūn	1
 商户地乡	shāng hù dì xiāng	58
-上葫芦村	shàng hú lú cūn	92
+上葫芦村	shàng hú lu cūn	92
 上花岔乡	shàng huā chà xiāng	116
 上花园村	shàng huā yuán cūn	34
 尚黄桥村	shàng huáng qiáo cūn	1
@@ -34955,7 +34955,7 @@ sort: by_weight
 土河沟村	tǔ hé gōu cūn	1
 土红坳村	tǔ hóng ào cūn	1
 吐呼鲁村	tǔ hū lǔ cūn	1
-吐葫芦乡	tǔ hú lú xiāng	58
+吐葫芦乡	tǔ hú lu xiāng	58
 图呼其乡	tú hū qí xiāng	58
 土基街村	tǔ jī jiē cūn	1
 涂家坝村	tú jiā bà cūn	1
@@ -37194,7 +37194,7 @@ sort: by_weight
 西湖浃村	xī hú jiā cūn	1
 西湖景村	xī hú jǐng cūn	1
 西胡林村	xī hú lín cūn	156
-西葫芦村	xī hú lú cūn	1
+西葫芦村	xī hú lu cūn	1
 西湖社村	xī hú shè cūn	1
 西湖头村	xī hú tóu cūn	1
 溪湖小镇	xī hú xiǎo zhèn	77
@@ -44359,9 +44359,9 @@ sort: by_weight
 庄玄霜庄	zhuāng xuán shuāng zhuāng	1
 庄咬狗庄	zhuāng yǎo gǒu zhuāng	58
 庄逸清庄	zhuāng yì qīng zhuāng	1
-状元岙村	zhuàng yuán ào cūn	1
-状元桥村	zhuàng yuán qiáo cūn	116
-状元湾村	zhuàng yuán wān cūn	1
+状元岙村	zhuàng yuan ào cūn	1
+状元桥村	zhuàng yuan qiáo cūn	116
+状元湾村	zhuàng yuan wān cūn	1
 庄漳和庄	zhuāng zhāng hé zhuāng	1
 庄掌潭庄	zhuāng zhǎng tán zhuāng	35
 庄圳头庄	zhuāng zhèn tóu zhuāng	105
