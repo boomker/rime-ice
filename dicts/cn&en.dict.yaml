@@ -4,7 +4,7 @@
 ---
 name: cn&en
 version: "LTS"
-sort: by_weight  #字典初始排序，可選original或by_weight
+sort: original  #字典初始排序，可選original或by_weight
 ...
 呣	M
 呒	M
@@ -127,6 +127,13 @@ N股	N'gǔ
 S股	S'gǔ
 A盘	A'pán
 A片	A'piàn
+A档	A'dàng
+M档	M'dàng
+S档	S'dàng
+P档	P'dàng
+R档	R'dàng
+D档	D'dàng
+N档	N'dàng
 AA制	AA'zhì
 ATM机	ATM'jī
 B超	B'chāo
@@ -156,10 +163,24 @@ T型台	T'xíng'tái
 U盾	U'dùn
 S形	S'xíng
 U形	U'xíng
+A壳	A'ké
+B壳	B'ké
+C壳	C'ké
+D壳	D'ké
+A面	A'miàn
+B面	B'miàn
+C面	C'miàn
+D面	D'miàn
+A柱	A'zhù
+B柱	B'zhù
+C柱	C'zhù
+D柱	D'zhù
 U形管	U'xíng'guǎn
 UIM卡	UIM'kǎ
 USIM卡	USIM'kǎ
 X刀	X'dāo
+Notepad++	Npp
+Notepad++	Notepad++
 盒马mini	hé'mǎ'mini
 X染色体	X'rǎn'sè'tǐ
 Y染色体	Y'rǎn'sè'tǐ
@@ -191,26 +212,23 @@ QQ秀	QQ'xiù
 Big胆	Big'dǎn
 我叫MT	wǒ'jiào'MT
 谜拟Q	mí'nǐ'Q
+APS-C	APS-C
+apsc画幅	Apsc'huà'fú
 多边兽Z	duō'biān'shòu'Z
-藤子·F·不二雄	téng'zi'F'bú'èr'xióng
+藤子·F·不二雄	téng'zǐ'F'bú'èr'xióng
+藤子不二雄A	téng'zǐ'bú'èr'xióng'A
 PC版	PC'bǎn
 PC版本	PC'bǎn'běn
 A塔	A'tǎ
+JK制服	JK'zhì'fú
 平A	píng'A
 立Flag	lì'Flag
 C罗	C'luó
 IE浏览器	IE'liú'lǎn'qì
-A壳	A'ké
-B壳	B'ké
-C壳	C'ké
-D壳	D'ké
-A面	A'miàn
-B面	B'miàn
-C面	C'miàn
-D面	D'miàn
 Server酱	Server'jiàng
 P图	P'tú
 P个图	P'gè'tú
+AVL树	AVL'shù
 P一下	P'yí'xià
 芭比Q	bā'bǐ'Q
 芭比Q了	bā'bǐ'Q'le
@@ -901,6 +919,14 @@ UX体验	UX'tǐ'yàn
 HTTP请求	HTTP'qǐng'qiú
 HTTPS安全	HTTPS'ān'quán
 QR码	QR'mǎ
+N_m3u8DL	N_m3u8DL
+Downie	Downie
+Wget	Wget
+Dra	Dra
+cURL	cURL
+Aria2	Aria2
+M3U8	M3U8
+PikPak	PikPak
 WiFi密码	WiFi'mì'mǎ
 Bluetooth设备	Bluetooth'shè'bèi
 PDF文件	PDF'wén'jiàn
@@ -927,7 +953,65 @@ HDMI接口	HDMI'jiē'kǒu
 4K电视	sì'K'diàn'shì
 MacBook电脑	MacBook'diàn'nǎo
 iPad平板	iPad'píng'bǎn
-iPhone手机	iPhone'shǒu'jī
+iPhone 6 Plus	IPhone6Plus
+iPhone 7 Plus	IPhone7Plus
+iPhone 8 Plus	IPhone8Plus
+iPhone 11 Pro	IPhone11Pro
+iPhone 12 Pro	IPhone12Pro
+iPhone 13 Pro	IPhone13Pro
+iPhone 14 Pro	IPhone14Pro
+iPhone 15 Pro	IPhone15Pro
+iPhone 16 Pro	IPhone16Pro
+iPhone XS Max	IPhoneXSMax
+iPhone手机	IPhone'shǒu'jī
+iPhone 17	IPhone17
+iPhone Air	IPhoneAir
+iPhone 17 Pro	IPhone17 Pro
+iPhone 17 Pro Max	IPhone17ProMax
+iPhone	IPhone
+iPhone 4	IPhone4
+iPhone 5	IPhone5
+iPhone 6	IPhone6
+iPhone 7	IPhone7
+iPhone 8	IPhone8
+iPhone 16	IPhone
+iPhone X	IPhoneX
+iPhone 3G	IPhone3G
+iPhone 4S	IPhone4S
+iPhone 5C	IPhone5C
+iPhone 5S	IPhone5S
+iPhone 6S	IPhone6S
+iPhone 11	IPhone11
+iPhone 12	IPhone12
+iPhone 13	IPhone13
+iPhone 14	IPhone14
+iPhone 15	IPhone15
+iPhone 16	IPhone16
+iPhone SE	IPhoneSE
+iPhone XR	IPhoneXR
+iPhone XS	IPhoneXS
+iPhone 3GS	IPhone3GS
+iPhone 16 Pro	IPhone
+iPhone 16 Plus	IPhone
+iPhone 16 Pro Max	IPhone
+iPhone 6S Plus	IPhone6SPlus
+iPhone 12 Mini	IPhone12Mini
+iPhone 13 Mini	IPhone13Mini
+iPhone 14 Plus	IPhone14Plus
+iPhone 15 Plus	IPhone15Plus
+iPhone 16 Plus	IPhone16Plus
+iPhone 11 Pro Max	IPhone11ProMax
+iPhone 12 Pro Max	IPhone12ProMax
+iPhone 13 Pro Max	IPhone13ProMax
+iPhone 14 Pro Max	IPhone14ProMax
+iPhone 15 Pro Max	IPhone15ProMax
+iPhone 16 Pro Max	IPhone16ProMax
+iPad	IPad
+iPadOS	IPadOS
+iPad Air	IPadAir
+iPad Pro	IPadPro
+iPad mini	IPadmini
+tripadvisor	Tripadvisor
 Galaxy系列	Galaxy'xì'liè
 ThinkPad笔记本	ThinkPad'bǐ'jì'běn
 Redmi手机	Redmi'shǒu'jī
@@ -1138,10 +1222,10 @@ GB	Gfi
 Home键	Home'jiàn
 End键	End'jiàn
 DNA分子	DNA'fēn'zǐ
-10000000clips	1000'wàn'clips
-8000000clips	800'wàn'clips
-5000000clips	500'wàn'clips
-3000000clips	300'wàn'clips
+1000w clips	1000'wàn'clips
+800w clips	800'wàn'clips
+500w clips	500'wàn'clips
+300w clips	300'wàn'clips
 PV	PV
 PE	PE
 PP	PP
@@ -1156,6 +1240,7 @@ UPVC蝶阀	UPVC'dié'fá
 PP法兰	PP'fǎ'lán
 WAN	WAN
 WAN口	WAN'kǒu
+CD播放器	CD'bō'fàng'qì
 flac	Flac
 m4a	M4a
 mkv	MKV
@@ -1436,20 +1521,23 @@ DF31	DF31
 DF41	DF41
 DF51	DF51
 DF61	DF61
-东风-11	东风-11
-东风-12	东风-12
-东风-15	东风-15
-东风-16	东风-16
-东风-17	东风-17
-东风-21	东风-21
-东风-21D	东风-21D
-东风-26	东风-26
-东风-27	东风-27
-东风-31	东风-31
-东风-31A	东风-31A
-东风-31AG	东风-31AG
-东风-41	东风-41
-东风-5	东风-5
+DF-5C	DF-5C
+东风-11	dōng'fēng-11
+东风-12	dōng'fēng-12
+东风-15	dōng'fēng-15
+东风-16	dōng'fēng-16
+东风-17	dōng'fēng-17
+东风-21	dōng'fēng-21
+东风-21D	dōng'fēng-21D
+东风-26	dōng'fēng-26
+东风-27	dōng'fēng-27
+东风-31	dōng'fēng-31
+东风-31A	dōng'fēng-31A
+东风-31AG	dōng'fēng-31AG
+东风-31BJ	dōng'fēng-31BJ
+东风-41	dōng'fēng-41
+东风-5	dōng'fēng-5
+东风-5C	dōng'fēng-5C
 DF-11	DF-11
 DF-15	DF-15
 DF-17	DF-17
@@ -1546,3 +1634,196 @@ J-16D	J-16D
 J-20	J-20
 J-31	J-31
 J-35	J-35
+运-20	yùn-20
+运-9	yùn-9
+运-8	yùn-8
+运-7	yùn-7
+运-12	yùn-12
+Y-20	Y-20
+Y-9	Y-9
+Y-8	Y-8
+Y-7	Y-7
+Y-12	Y-12
+运油-20	yùn'yóu-20
+轰油-6	hōng'yóu-6
+YY-20	YY-20
+HY-6	HY-6
+空警-2000	kōng'jǐng-2000
+空警-200	kōng'jǐng-200
+空警-500	kōng'jǐng-500
+KJ-2000	KJ-2000
+KJ-200	KJ-200
+KJ-500	KJ-500
+运-8Q	yùn-8Q
+Y-8Q	Y-8Q
+无侦-7	wú'zhēn-7
+无侦-8	wú'zhēn-8
+WZ-7	WZ-7
+WZ-8	WZ-8
+BZK-005	BZK-005
+高新-6	gāo'xīn-6
+高新-8	gāo'xīn-8
+教-8	jiào-8
+教-9	jiào-9
+教-10	jiào-10
+歼教-7	jiān'jiào-7
+初教-6	jiān'jiào-6
+JL-8	JL-8
+JL-9	JL-9
+JL-10	JL-10
+K-8	K-8
+L-15	L-15
+FTC-2000	FTC-2000
+CJ-6	CJ-6
+直-8	zhí-8
+直-9	zhí-9
+直-10	zhí-10
+直-11	zhí-11
+直-15	zhí-15
+直-18	zhí-18
+直-19	zhí-19
+直-20	zhí-20
+Z-8	Z-8
+Z-9	Z-9
+Z-10	Z-10
+Z-11	Z-11
+Z-15	Z-15
+Z-18	Z-18
+Z-19	Z-19
+Z-20	Z-20
+武直-10	wǔ'zhí-10
+武直-19	wǔ'zhí-19
+歼轰-7	hōng'jiān-7
+歼轰-7A	hōng'jiān-7A
+JH-7	JH-7
+JH-7A	JH-7A
+攻击-11	gōng'jī-11
+攻击-2	gōng'jī-2
+GJ-11	GJ-11
+GJ-2	GJ-2
+翼龙-2	yì'lóng-2
+翼龙-3	yì'lóng-3
+彩虹-4	cǎi'hóng-4
+彩虹-5	cǎi'hóng-5
+CH-4	CH-4
+CH-5	CH-5
+WL-2	WL-2
+WL-3	WL-3
+TB-001	TB-001
+鹰击-21	yīng'jī-21
+YJ-21	YJ-21
+东风-26D	dōng'fēng-26D
+DF-26D	DF-26D
+红旗-29	hóng'qí-29
+HQ-29	HQ-29
+红旗-20	hóng'qí-20
+HQ-20	HQ-20
+红旗-19	hóng'qí-19
+HQ-19	HQ-19
+海红旗-9C	hái'hóng'qí-9C
+HHQ-9C	HHQ-9C
+红旗-16C	hóng'qí-16C
+HQ-16C	HQ-16C
+LY-1舰载激光武器	LY-1'jiàn'zài'jī'guāng'wǔ'qì
+LY-1	LY-1
+歼-35A	jiān-35A
+J-35A	J-35A
+歼-20S	jiān-20S
+J-20S	J-20S
+歼-20A	jiān-20A
+J-20A	J-20A
+惊雷-1	jīng'léi-1
+东风-61	dōng'fēng-61
+DF-61	DF-61
+DF-31	DF-31
+59式坦克	59'shì'tǎn'kè
+69式坦克	69'shì'tǎn'kè
+79式坦克	79'shì'tǎn'kè
+80式主战坦克	80'shì'zhǔ'zhàn'tǎn'kè
+85式主战坦克	85'shì'zhǔ'zhàn'tǎn'kè
+88式主战坦克	88'shì'zhǔ'zhàn'tǎn'kè
+96式主战坦克	96'shì'zhǔ'zhàn'tǎn'kè
+96A式主战坦克	96A'shì'zhǔ'zhàn'tǎn'kè
+96B式主战坦克	96B'shì'zhǔ'zhàn'tǎn'kè
+99式主战坦克	99'shì'zhǔ'zhàn'tǎn'kè
+99A式主战坦克	99A'shì'zhǔ'zhàn'tǎn'kè
+99B式主战坦克	99B'shì'zhǔ'zhàn'tǎn'kè
+ZTZ-59	ZTZ-59
+ZTZ-69	ZTZ-69
+ZTZ-79	ZTZ-79
+ZTZ-80	ZTZ-80
+ZTZ-85	ZTZ-85
+ZTZ-88	ZTZ-88
+ZTZ-96	ZTZ-96
+ZTZ-96A	ZTZ-96A
+ZTZ-96B	ZTZ-96B
+ZTZ-99	ZTZ-99
+ZTZ-99A	ZTZ-99A
+62式轻型坦克	62'shì'qīng'xíng'tǎn'kè
+63式两栖坦克	63'shì'liǎng'qī'tǎn'kè
+63A式两栖坦克	63A'shì'liǎng'qī'tǎn'kè
+15式轻型坦克	15'shì'qīng'xíng'tǎn'kè
+15式轻坦	15'shì'qīng'tǎn
+05式两栖突击车	05'shì'liǎng'qī'tū'jī'chē
+ZTQ-15	ZTQ-15
+ZTS-63A	ZTS-63A
+ZTD-05	ZTD-05
+VT-2	VT-2
+VT-4	VT-4
+VT-5	VT-5
+MBT-2000	MBT-2000
+MBT-3000	MBT-3000
+Type-59	Type'59
+Type-69	Type'69
+Type-79	Type'79
+Type-80	Type'80
+Type-88	Type'88
+Type-96	Type'96
+Type-99	Type'99
+Type-99A	Type'99A
+Type-99B	Type'99B
+FPV无人机	FPV'wú'rén'jī
+GPT-5	GPT-5
+GPT-5 Pro	GPT-5Pro
+GPT-5 Thinking	GPT-5Thinking
+Veo	Veo
+Veo 3	Veo3
+Claude 3	Claude'3
+Claude 3.5	Claude'3.5
+Claude 3.7	Claude'3.7
+Claude 4	Claude'4
+Claude 4.1	Claude'4.1
+Claude 3 Haiku	Claude'3'Haiku
+Claude 3 Sonnet	Claude'3'Sonnet
+Claude 3 Opus	Claude'3'Opus
+Claude 3.5 Sonnet	Claude'3.5'Sonnet
+Claude 3.5 Haiku	Claude'3.5'Haiku
+Claude 3.7 Sonnet	Claude'3.7'Sonnet
+Claude Sonnet 4	Claude'Sonnet'4
+Claude Opus 4	Claude'Opus'4
+Claude Opus 4.1	Claude'Opus'4.1
+Genspark	Genspark
+A+	A+
+FBA	FBA
+FBM	FBM
+UPC	UPC
+DHL	DHL
+kyc	kyc
+USPS	USPS
+CE	CE
+SKU	SKU
+MSKU	MSKU
+FNSKU	FNSKU
+WEEE	WEEE
+AGF	AGF
+Shadowrocket	Shadowrocket
+fail2ban	fail2ban
+giffgaff	giffgaff
+KeePassXC	KeePassXC
+KeePass	KeePass
+KeePassium	KeePassium
+AHK	AHK
+psd	psd
+VLOOKUP	VLOOKUP
+csv	csv
+Teamspace	Teamspace

@@ -5,7 +5,7 @@
 ---
 name: wanxiang_en
 version: "LTS"
-sort: by_weight
+sort: original
 ...
 A	A
 a	A
@@ -122,7 +122,7 @@ TV	TV
 UI	UI
 UK	UK
 up	Up
-us	Us
+US	Us
 WC	WC
 we	We
 xi	Xi
@@ -481,6 +481,7 @@ hip	Hip
 his	His
 hit	Hit
 HIV	HIV
+HDR	HDR
 hmm	Hmm
 hoe	Hoe
 hog	Hog
@@ -1904,7 +1905,6 @@ into	Into
 ions	Ions
 iota	Iota
 Iowa	Iowa
-iPad	IPad
 IPFS	IPFS
 IPLC	IPLC
 iPod	IPod
@@ -2933,6 +2933,7 @@ VoIP	VoIP
 volt	Volt
 vote	Vote
 vows	Vows
+vfat	vfat
 wade	Wade
 wage	Wage
 wags	Wags
@@ -3843,8 +3844,8 @@ Ellen	Ellen
 Ellis	Ellis
 Elton	Elton
 elvis	Elvis
-Emacs	Emacs
 email	Email
+Emacs	Emacs
 embed	Embed
 Emily	Emily
 emoji	Emoji
@@ -7386,8 +7387,6 @@ invite	Invite
 invoke	Invoke
 inward	Inward
 Iomega	Iomega
-iPadOS	IPadOS
-iPhone	IPhone
 Iraqis	Iraqis
 ironic	Ironic
 Irvine	Irvine
@@ -7901,7 +7900,6 @@ Norman	Norman
 Norris	Norris
 Norton	Norton
 Norway	Norway
-Notepad++	Npp
 notice	Notice
 notify	Notify
 noting	Noting
@@ -12752,15 +12750,6 @@ Apple TV	AppleTV
 Argent X	ArgentX
 Game Boy	GameBoy
 Hybrid drive	HHD
-iPad Air	IPadAir
-iPad Pro	IPadPro
-iPhone 4	IPhone4
-iPhone 5	IPhone5
-iPhone 6	IPhone6
-iPhone 7	IPhone7
-iPhone 8	IPhone8
-iPhone 16	IPhone
-iPhone X	IPhoneX
 ISO 8601	ISO8601
 Let's go	Let'sgo
 Mac mini	Macmini
@@ -15679,21 +15668,6 @@ Google TV	GoogleTV
 Great Firewall	GFW
 Hong Kong	HongKong
 iA Writer	IAWriter
-iPad mini	IPadmini
-iPhone 3G	IPhone3G
-iPhone 4S	IPhone4S
-iPhone 5C	IPhone5C
-iPhone 5S	IPhone5S
-iPhone 6S	IPhone6S
-iPhone 11	IPhone11
-iPhone 12	IPhone12
-iPhone 13	IPhone13
-iPhone 14	IPhone14
-iPhone 15	IPhone15
-iPhone 16	IPhone16
-iPhone SE	IPhoneSE
-iPhone XR	IPhoneXR
-iPhone XS	IPhoneXS
 John Wick	JohnWick
 macOS Mojave	MacOS
 macOS Sierra	MacOS
@@ -16576,6 +16550,8 @@ figurines	Figurines
 FileMaker	FileMaker
 FileVault	FileVault
 filtering	Filtering
+grandparent	Grandparent
+colourful	Colourful
 financial	Financial
 financing	Financing
 fingering	Fingering
@@ -17125,7 +17101,6 @@ northwest	Northwest
 Norwegian	Norwegian
 nostalgia	Nostalgia
 notebooks	Notebooks
-Notepad++	Notepad++
 notorious	Notorious
 novelties	Novelties
 numbering	Numbering
@@ -18024,8 +17999,6 @@ Google One	GoogleOne
 Grand Theft Auto	GTA
 Internet Explorer	IE
 internet protocol	IP
-iPhone 3GS	IPhone3GS
-iPhone 16 Pro	IPhone
 Laugh Out Loudly	LOL
 Laugh Tale	LaughTale
 Legal High	LegalHigh
@@ -18860,7 +18833,6 @@ invariably	Invariably
 inventions	Inventions
 investment	Investment
 invitation	Invitation
-iPhone 16 Plus	IPhone
 ironically	Ironically
 irrelevant	Irrelevant
 irrigation	Irrigation
@@ -20596,7 +20568,6 @@ transported	Transported
 transporter	Transporter
 transsexual	Transsexual
 Travelocity	Travelocity
-tripadvisor	Tripadvisor
 troublesome	Troublesome
 trustworthy	Trustworthy
 ultraviolet	Ultraviolet
@@ -20664,7 +20635,6 @@ Honey Select	HoneySelect
 Hybrid drive	Hybriddrive
 iCloud Drive	ICloudDrive
 Intelligence quotient	IQ
-iPhone 16 Pro Max	IPhone
 iTunes Match	ITunesMatch
 iTunes Store	ITunesStore
 Java Development Kit	JDK
@@ -20994,16 +20964,6 @@ introductory	Introductory
 investigated	Investigated
 investigator	Investigator
 invitational	Invitational
-iPhone 6 Plus	IPhone6Plus
-iPhone 7 Plus	IPhone7Plus
-iPhone 8 Plus	IPhone8Plus
-iPhone 11 Pro	IPhone11Pro
-iPhone 12 Pro	IPhone12Pro
-iPhone 13 Pro	IPhone13Pro
-iPhone 14 Pro	IPhone14Pro
-iPhone 15 Pro	IPhone15Pro
-iPhone 16 Pro	IPhone16Pro
-iPhone XS Max	IPhoneXSMax
 irregularity	Irregularity
 irrespective	Irrespective
 Jacksonville	Jacksonville
@@ -21048,6 +21008,12 @@ multilingual	Multilingual
 municipality	Municipality
 MyBatis-Plus	MyBatis-Plus
 navigational	Navigational
+NDM	NDM
+IDM	IDM
+FDM	FDM
+XDM	XDM
+stressful	Stressful
+qBittorrentEE	qBittorrentEE
 Neat Download Manager	NDM
 negotiations	Negotiations
 neighborhood	Neighborhood
@@ -21448,12 +21414,6 @@ investigating	Investigating
 investigation	Investigation
 investigative	Investigative
 investigators	Investigators
-iPhone 6S Plus	IPhone6SPlus
-iPhone 12 Mini	IPhone12Mini
-iPhone 13 Mini	IPhone13Mini
-iPhone 14 Plus	IPhone14Plus
-iPhone 15 Plus	IPhone15Plus
-iPhone 16 Plus	IPhone16Plus
 itsdangerours	Itsdangerours
 jurisdictions	Jurisdictions
 justification	Justification
@@ -21835,12 +21795,6 @@ Google Analytics	GoogleAnalytics
 Google Workspace	GoogleWorkspace
 Hypertext Transfer Protocol	HTTP
 Impostor Factory	ImpostorFactory
-iPhone 11 Pro Max	IPhone11ProMax
-iPhone 12 Pro Max	IPhone12ProMax
-iPhone 13 Pro Max	IPhone13ProMax
-iPhone 14 Pro Max	IPhone14ProMax
-iPhone 15 Pro Max	IPhone15ProMax
-iPhone 16 Pro Max	IPhone16ProMax
 Keyboard Maestro	KeyboardMaestro
 Language Reactor	LanguageReactor
 Microsoft Access	MicrosoftAccess
