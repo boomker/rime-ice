@@ -499,8 +499,9 @@ sort: by_weight
 𪓾	áo;;iv;;;;	1
 薁	ào;cd;cd;ca;lm;at;cd	1
 把	bǎ;fb;fb;fb;um;rc;fb	925
-吧	bā;kb;kb;kb;dm;kc;kb	910
+吧	ba;kb;kb;kb;dm;kc;kb	910
 爸	bà;fb;bb;fb;hm;wq;bb	834
+吧	bā;kb;kb;kb;dm;kc;kb	810
 八	bā;pn;pn;pd;hb;wt;pn	799
 捌	bā;fd;fd;fb;up;rk;fd	782
 扒	bā;fb;fb;fb;uh;rw;fb	772
@@ -636,11 +637,11 @@ sort: by_weight
 䶕	bà;vb;vb;ib;lm;hb;	1
 白	bái;po;po;pa,po;ub;rr;po	785
 百	bǎi;ab;ab;ab;fu;dj;ab	758
+败	bài;bw;kw;bw,wb;oh;mt;bw	730
 佰	bǎi;rb;rb;rb;ju;wd;ro	712
-呗	bài;kb;kr;kb;do;km;kr	708
-败	bài;bw;kw;bw,wb;oh;mt;bw	702
 摆	bǎi;fq;fs;fb;uk;rl;fv	671
 拜	bài;uf;uf;pa,ua,uf;ua;rd;pf	670
+呗	bài;kb;kr;kb;do;km;kr	622
 柏	bǎi;mb;mb;mb;eu;sr;lb	607
 掰	bāi;uu;uu;fu,uu;uu;rw;pu	526
 栢	bǎi;mb;mb;mb;eu;sd;	376
@@ -3575,7 +3576,7 @@ sort: by_weight
 琩	chāng;wo;wo;wi;no;gj;	167
 鯧	chāng;yo;ao;yi;wo;qo;	166
 甞	cháng;xg;xg;dg,gk,xg;sz;ip;	154
-镸	cháng;eg;as;ad;pc;dg;	139
+長	cháng;ey;an;ad;pc;de;	142
 仩	cháng;ru;ru;ru;jf;wh;	136
 仧	cháng;ur;ur;ru,ur;yj;hw;	134
 鱨	cháng;yo;ao;yi;wo;qo;	122
@@ -3591,6 +3592,7 @@ sort: by_weight
 鼚	chāng;ti;ui;gi;hp;fk;	50
 僘	chǎng;rw;rw;ri,rw;jh;wi;	23
 瓺	cháng;ew;aw;wi;pr;dg;	23
+镸	cháng;eg;as;ad;pc;dg;	1
 䗉	chāng;;io;;;;	1
 㫤	chǎng;oy;oy;ou,oy;ok;jy;	1
 𬬮	chǎng;ji;ji;ji;zp;qt;ji	1
@@ -3599,7 +3601,6 @@ sort: by_weight
 場	cháng;tw;tw;ty;ge;fj;	1
 塲	chǎng;tw;tw;tw,ty;ge;ft;	1
 淌	chǎng;dk;dk;du;ks;ii;dk	1
-長	cháng;ey;an;ad;pc;de;	1
 闛	chāng;mt;mt;mt;ag;ui;	1
 龦	cháng;;hj;;;;	1
 㙊	cháng;ti;ti;ti;gp;fd;	1
@@ -6740,8 +6741,8 @@ sort: by_weight
 得	děi;rc;ic;xc;wk;tj;rc	614
 嘚	dēi;kc;kc;kd;dk;kt;kc	1
 䮻	děi;mc;mc;mu;nk;cf;	1
-扥	dèn;fb;fv;fg;ur;rt;	254
-扽	dèn;ft;ft;ft;us;rg;ft	234
+扽	dèn;ft;ft;ft;us;rg;ft	264
+扥	dèn;fb;fv;fg;ur;rt;	204
 㩐	dèn;fc;fc;fd;uk;rt;	1
 等	děng;vc;vc;vs;rk;tf;vc	853
 登	dēng;bb;va;dd;hz;wg;vd	720
@@ -6809,11 +6810,11 @@ sort: by_weight
 第	dì;vd;vp;vp;rt;tx;vp	824
 低	dī;ru;rd;rd;ji;wq;rd	776
 底	dǐ;gu;gd;gd;xi;yq;gd	758
+递	dì;zd;zp;zd;hu;ux;zd	742
+弟	dì;bd;bp;bp;ht;ux;ep	737
 的	dì;bu;bu;bu;ui;rq;bu	733
 帝	dì;wj;wj;jb,wj,lj;ir;up;wj	706
 迪	dí;zy;zy;zy;du;mp;zy	699
-弟	dì;bd;bp;bp;ht;ux;ep	688
-递	dì;zd;zp;zd;hu;ux;zd	678
 的	dí;bu;bu;bu;ui;rq;bu	677
 抵	dǐ;fu;fd;fd;ui;rq;fd	672
 滴	dī;dg;dk;dd,dg;kc;iu;dk	668
@@ -7229,7 +7230,7 @@ sort: by_weight
 𪓼	diān;wd;wv;md,dm;zd;yl;	1
 𪖚	diān;zv;zk;bv;od;th;	1
 𫁥	diàn;;lk;;;;	1
-𣵦	diàn;	1
+𣵦	diàn;dt;dt;;;;	1
 掉	diào;fu;fu;fv;un;rh;fu	758
 调	diào;yk;yk;yv;sd;ym;yk	743
 雕	diāo;kv;kf;vv;mu;mf;va	633
