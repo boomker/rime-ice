@@ -192,6 +192,11 @@ re	Re
 os	Os
 I'd	Id
 YY	YY
+Vimeo	Vimeo
+HLS	HLS
+SRE	SRE
+Mux	Mux
+Wistia	Wistia
 CRT	CRT
 mAh	MAh
 PTT	PTT
@@ -3177,6 +3182,7 @@ sung	Sung
 Suns	Suns
 sure	Sure
 surf	Surf
+SVIP	SVIP
 suse	Suse
 SUVs	SUVs
 Sven	Sven
@@ -51808,3 +51814,10 @@ SpongeBob SquarePants	SpongeBobSquarePants
 Unified Extensible Firmware Interface	UEFI
 digitalrepresentation	Digitalrepresentation
 electroencephalograph	Electroencephalograph
+Agentic Commerce Protocol	ACP
+git pull	gitpull
+git push -u origin main	gitpush
+git push -u origin wanxiang	gitpushw
+git add	gitadd
+git add .	gitadd
+git commit -m ""	gitcommit
